@@ -43,6 +43,9 @@ Always use an app password, never your main password!
  - [Gentle Unfollow](https://b.cam.fyi/unfollow) - Clean up your bluesky feed until it sparks joy
  - [List Copier](https://unfollow.cam.fyi/lists) - Make a new list from an existing one
 
+## Selfhosting
+ - [PDS](https://github.com/bluesky-social/pds) - Container image and documentation to selfhost your own Personal Data Server
+
 ## Viewers
  - [cbsky.app](https://github.com/goeo-/cbsky.app) - Replace "bsky" in URLs with "cbsky" to embed posts in Discord, Telegram, etc
  - [Firesky](https://firesky.tv/) - Live Bluesky firehose

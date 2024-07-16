@@ -9,7 +9,6 @@ Always use an app password, never your main password!
  - [deck.blue](https://deck.blue/) - Web client with column view
  - [Graysky](https://graysky.app/) - Mobile client for both Android and iOS
  - [Skeetdeck](https://skeetdeck.pages.dev/) - Web client inspired by TweetDeck
- - [Sky.app](https://github.com/jcsalterego/Sky.app) - MacOS client
  - [TOKIMEKI](https://tokimekibluesky.vercel.app/) - Web client
 
 ## Charts, graphs, and stats

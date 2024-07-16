@@ -41,6 +41,7 @@ Always use an app password, never your main password!
  - [cleanfollow](https://cleanfollow-bsky.pages.dev/) - Unfollows all blocked by, deleted, and deactivated accounts
  - [Gentle Unfollow](https://b.cam.fyi/unfollow) - Clean up your bluesky feed until it sparks joy
  - [List Copier](https://unfollow.cam.fyi/lists) - Make a new list from an existing one
+ - [Quiet posters](https://mary-ext.codeberg.page/bluesky-quiet-posters/) - View your least active bluesky follows
 
 ## Selfhosting
  - [PDS](https://github.com/bluesky-social/pds) - Container image and documentation to selfhost your own Personal Data Server

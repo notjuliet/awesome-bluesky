@@ -18,6 +18,7 @@ Always use an app password, never your main password!
 ## Feeds
  - [Bluestream](https://bluestream.deno.dev/) - RSS feed generator
  - [SkyFeed](https://skyfeed.app) - Alternative web client with a powerful custom feed builder
+ - [Bluesky Feed Creator](https://blueskyfeedcreator.com/) - Quickly design and customize your Bluesky feeds, no coding knowledge required.
 
 ## Identity
  - [DID PLC Directory](https://web.plc.directory/) - did:plc resolver with API

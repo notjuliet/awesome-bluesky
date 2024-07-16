@@ -18,7 +18,6 @@ Always use an app password, never your main password!
 
 ## Feeds
  - [Bluestream](https://bluestream.deno.dev/) - RSS feed generator
- - [goodfeeds](https://goodfeeds.co/) - Custom feed directory/search engine and builder
  - [SkyFeed](https://skyfeed.app) - Alternative web client with a powerful custom feed builder
 
 ## Identity

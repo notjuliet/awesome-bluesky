@@ -13,6 +13,7 @@ Always use an app password, never your main password!
 
 ## Charts, graphs, and stats
  - [Atlas](https://bsky.jazco.dev/) - Aggregate stats for all posts
+ - [Skircle](https://skircle.me/) - Generate social circle images
  - [Wolfgang](https://wolfgang.raios.xyz/) - Interactions, social circles, blocks
 
 ## Feeds

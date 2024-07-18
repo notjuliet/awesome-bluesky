@@ -28,6 +28,7 @@ Always use an app password, never your main password!
 ## Identity
  - [DID PLC Directory](https://web.plc.directory/) - did:plc resolver with API
  - [did:plc Tracker](https://plc-handle-tracker.kpherox.dev/) - did:plc & atproto handle tracker
+ - [internect.info](https://internect.info/) - Resolve a Bluesky handle
  - [SkyTools](https://skytools.anon5r.com/) - User handle history and DID look up tool
 
 ## Moderation

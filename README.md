@@ -17,6 +17,9 @@ Always use an app password, never your main password!
  - [Skircle](https://skircle.me/) - Generate social circle images
  - [Wolfgang](https://wolfgang.raios.xyz/) - Interactions, social circles, blocks
 
+## Events
+ - [Smoke Signal](https://smokesignal.events/) - Event and RSVP management
+
 ## Feeds
  - [Bluestream](https://bluestream.deno.dev/) - RSS feed generator
  - [SkyFeed](https://skyfeed.app) - Alternative web client with a powerful custom feed builder

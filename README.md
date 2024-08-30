@@ -14,7 +14,7 @@ Always use an app password, never your main password!
  - [TOKIMEKI](https://tokimekibluesky.vercel.app/) - Web client
 
 ## Bridges
- - [Bridgy Fed](https://fed.brid.gy) - Connects ATProto indentities to ActivityPub (Mastodon, …) and ActivityPub actors to ATProto (Bluesky)
+ - [Bridgy Fed](https://fed.brid.gy) - Connects ATProto identities to ActivityPub (Mastodon, …) and ActivityPub actors to ATProto (Bluesky)
 
 ## Charts, graphs, and stats
  - [Atlas](https://bsky.jazco.dev/) - Aggregate stats for all posts

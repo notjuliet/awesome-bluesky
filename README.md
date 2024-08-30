@@ -12,6 +12,9 @@ Always use an app password, never your main password!
  - [Skeets](https://www.skeetsapp.com/) - Client for iOS / iPadOS / macOS
  - [TOKIMEKI](https://tokimekibluesky.vercel.app/) - Web client
 
+## Bridges
+ - [Bridgy Fed](https://fed.brid.gy) - Connects ATProto handles to ActivityPub (Mastodon, …) and ActivityPub accounts to ATProto (Bluesky).
+
 ## Charts, graphs, and stats
  - [Atlas](https://bsky.jazco.dev/) - Aggregate stats for all posts
  - [Skircle](https://skircle.me/) - Generate social circle images

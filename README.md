@@ -53,6 +53,7 @@ Always use an app password, never your main password!
  - [PDS](https://github.com/bluesky-social/pds) - Container image and documentation to selfhost your own Personal Data Server
 
 ## Viewers
+ - [atproto-browser](https://atproto-browser.vercel.app) - Browse AT URIs
  - [cbsky.app](https://github.com/goeo-/cbsky.app) - Replace "bsky" in URLs with "cbsky" to embed posts in Discord, Telegram, etc
  - [Firesky](https://firesky.tv/) - Live Bluesky firehose
  - [Skythread](https://blue.mackuba.eu/skythread/) - Thread viewer

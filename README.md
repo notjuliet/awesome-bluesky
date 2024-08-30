@@ -44,7 +44,7 @@ Always use an app password, never your main password!
 
 ## Profile
  - [bannerizer](https://bannerizer.glitch.me/) - Easily crop or resize an image to fit Bluesky's banner size requirements
- - [cleanfollow](https://cleanfollow-bsky.pages.dev/) - Unfollows all blocked by, deleted, and deactivated accounts
+ - [cleanfollow](https://cleanfollow-bsky.pages.dev/) - Unfollow blocked, deleted, deactivated and suspended accounts
  - [Gentle Unfollow](https://b.cam.fyi/unfollow) - Clean up your bluesky feed until it sparks joy
  - [List Copier](https://unfollow.cam.fyi/lists) - Make a new list from an existing one
  - [Quiet posters](https://mary-ext.codeberg.page/bluesky-quiet-posters/) - View your least active bluesky follows

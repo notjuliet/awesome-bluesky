@@ -42,6 +42,7 @@ Always use an app password, never your main password!
 
 ## Posts
  - [Profile Cleaner](https://bsky.jazco.dev/cleanup) - A tool to clean up old posts, likes, and reposts
+ - [Skeet Discord Bot](https://github.com/malooski/skeet-discord-bot) - Posts your bluesky skeets to Discord
  - [skeetgen](https://codeberg.org/mary-ext/skeetgen) - Generate an easily viewable archive of your Bluesky posts
  - [SkySweeper](https://skysweeper.p8.lu/) - Automatically delete old posts
 

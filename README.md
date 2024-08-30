@@ -10,6 +10,7 @@ Always use an app password, never your main password!
  - [Graysky](https://graysky.app/) - Mobile client for both Android and iOS
  - [Skeetdeck](https://skeetdeck.pages.dev/) - Web client inspired by TweetDeck
  - [Skeets](https://www.skeetsapp.com/) - Client for iOS / iPadOS / macOS
+ - [SkyBridge](https://skybridge.fly.dev/) - Proxy between Bluesky and Mastodon clients
  - [TOKIMEKI](https://tokimekibluesky.vercel.app/) - Web client
 
 ## Charts, graphs, and stats
@@ -39,7 +40,6 @@ Always use an app password, never your main password!
 ## Posts
  - [Profile Cleaner](https://bsky.jazco.dev/cleanup) - A tool to clean up old posts, likes, and reposts
  - [skeetgen](https://codeberg.org/mary-ext/skeetgen) - Generate an easily viewable archive of your Bluesky posts
- - [SkyBridge](https://skybridge.fly.dev/) - Proxy between Bluesky and Mastodon
  - [SkySweeper](https://skysweeper.p8.lu/) - Automatically delete old posts
 
 ## Profile

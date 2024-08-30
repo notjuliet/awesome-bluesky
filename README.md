@@ -10,7 +10,7 @@ Always use an app password, never your main password!
  - [Graysky](https://graysky.app/) - Mobile client for both Android and iOS
  - [Skeetdeck](https://skeetdeck.pages.dev/) - Web client inspired by TweetDeck
  - [Skeets](https://www.skeetsapp.com/) - Client for iOS / iPadOS / macOS
- - [SkyBridge](https://skybridge.fly.dev/) - Proxy between Bluesky and Mastodon clients
+ - [SkyBridge](https://skybridge.fly.dev/) - Proxy to use Bluesky with Mastodon clients
  - [TOKIMEKI](https://tokimekibluesky.vercel.app/) - Web client
 
 ## Charts, graphs, and stats

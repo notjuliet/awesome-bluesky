@@ -18,6 +18,7 @@ Always use an app password, never your main password!
 
 ## Charts, graphs, and stats
  - [Atlas](https://bsky.jazco.dev/) - Aggregate stats for all posts
+ - [bsky charts](https://bskycharts.edavis.dev/edavis.dev/bskycharts.edavis.dev/index.html) - Charts of Bluesky network activity
  - [Skircle](https://skircle.me/) - Generate social circle images
  - [Wolfgang](https://wolfgang.raios.xyz/) - Interactions, social circles, blocks
 

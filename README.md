@@ -44,6 +44,7 @@ Always use an app password, never your main password!
  - [Labeler Scraping](https://github.com/mary-ext/bluesky-labeler-scraping) - Indexes Bluesky labelers
 
 ## Posts
+ - [posteing](https://posteing.pages.dev/) - Thread composer to send multiple posts at once
  - [Profile Cleaner](https://bsky.jazco.dev/cleanup) - A tool to clean up old posts, likes, and reposts
  - [Skeet Discord Bot](https://github.com/malooski/skeet-discord-bot) - Posts your bluesky skeets to Discord
  - [skeetgen](https://codeberg.org/mary-ext/skeetgen) - Generate an easily viewable archive of your Bluesky posts

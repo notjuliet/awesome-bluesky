@@ -59,6 +59,7 @@ Always use an app password, never your main password!
  - [Quiet posters](https://mary-ext.codeberg.page/bluesky-quiet-posters/) - View your least active bluesky follows
 
 ## Selfhosting
+ - [jetstream](https://github.com/ericvolp12/jetstream) - A simplified JSON event stream for AT Proto
  - [PDS](https://github.com/bluesky-social/pds) - Container image and documentation to selfhost your own Personal Data Server
 
 ## Viewers

@@ -43,6 +43,7 @@ Always use an app password, never your main password!
  - [Blockenheimer](https://blockenheimer.click/) - Quickly block or mute users who have liked or reposted any given post
  - [Label Scanner](https://blue.mackuba.eu/scanner/) - Shows what labels are applied on an account
  - [Labeler Scraping](https://github.com/mary-ext/bluesky-labeler-scraping) - Indexes Bluesky labelers
+ - [A Block-Them-All Tool for Bluesky](https://a-block-them-all-tool-for-bluesky-6040df.gitlab.io/) - Blocks all of the followers of the specified user
 
 ## Posts
  - [posteing](https://posteing.pages.dev/) - Thread composer to send multiple posts at once

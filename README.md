@@ -41,10 +41,10 @@ Always use an app password, never your main password!
  - [Universal Resolver](https://dev.uniresolver.io/) - Resolves all kinds of `did` identities under the sun (64 and counting)
 
 ## Moderation
+ - [A Block-Them-All Tool for Bluesky](https://a-block-them-all-tool-for-bluesky-6040df.gitlab.io/) - Blocks all of the followers of the specified user
  - [Blockenheimer](https://blockenheimer.click/) - Quickly block or mute users who have liked or reposted any given post
  - [Label Scanner](https://blue.mackuba.eu/scanner/) - Shows what labels are applied on an account
  - [Labeler Scraping](https://github.com/mary-ext/bluesky-labeler-scraping) - Indexes Bluesky labelers
- - [A Block-Them-All Tool for Bluesky](https://a-block-them-all-tool-for-bluesky-6040df.gitlab.io/) - Blocks all of the followers of the specified user
 
 ## Posts
  - [posteing](https://posteing.pages.dev/) - Thread composer to send multiple posts at once
@@ -54,6 +54,7 @@ Always use an app password, never your main password!
  - [SkySweeper](https://skysweeper.p8.lu/) - Automatically delete old posts
 
 ## Profile
+ - [atproto-browser](https://atproto-browser.vercel.app) - Browse AT URIs
  - [bannerizer](https://bannerizer.glitch.me/) - Easily crop or resize an image to fit Bluesky's banner size requirements
  - [cleanfollow](https://cleanfollow-bsky.pages.dev/) - Unfollow blocked, deleted, deactivated and suspended accounts
  - [Gentle Unfollow](https://b.cam.fyi/unfollow) - Clean up your bluesky feed until it sparks joy
@@ -65,7 +66,6 @@ Always use an app password, never your main password!
  - [PDS](https://github.com/bluesky-social/pds) - Container image and documentation to selfhost your own Personal Data Server
 
 ## Viewers
- - [atproto-browser](https://atproto-browser.vercel.app) - Browse AT URIs
  - [cbsky.app](https://github.com/goeo-/cbsky.app) - Replace "bsky" in URLs with "cbsky" to embed posts in Discord, Telegram, etc
  - [Firesky](https://firesky.tv/) - Live Bluesky firehose
  - [Skythread](https://blue.mackuba.eu/skythread/) - Thread viewer

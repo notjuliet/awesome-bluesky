@@ -24,6 +24,7 @@ Always use an app password, never your main password!
  - [Handle Directory](https://blue.mackuba.eu/directory/) - Bluesky handles directory (TLDs, PDSes, Fediverse)
  - [Skircle](https://skircle.me/) - Generate social circle images
  - [Wolfgang](https://wolfgang.raios.xyz/) - Interactions, social circles, blocks
+ - [Clearsky](https://clearsky.app/) - user information, statistics, and corralated data
 
 ## Events
  - [Smoke Signal](https://smokesignal.events/) - Event and RSVP management

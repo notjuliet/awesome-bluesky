@@ -3,8 +3,6 @@
 [Bluesky](https://github.com/bluesky-social/) is a decentralized microblogging platform powered by the [AT Protocol](https://atproto.com/).
 This protocol enables the creation of powerful third party tools, enlisted here for easy reference.
 
-Always use an app password, never your main password!
-
 ## Alternative Clients
  - [deck.blue](https://deck.blue/) - Web client with column view
  - [Graysky](https://graysky.app/) - Mobile client for both Android and iOS

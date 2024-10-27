@@ -19,6 +19,7 @@ This protocol enables the creation of powerful third party tools, enlisted here 
  - [Atlas](https://bsky.jazco.dev/) - Aggregate stats for all posts
  - [bsky charts](https://bskycharts.edavis.dev/edavis.dev/bskycharts.edavis.dev/index.html) - Charts of Bluesky network activity
  - [Bluesky Stats](https://blue.mackuba.eu/stats/) - Bluesky activity stats
+ - [Firehose Geiger](https://bskysoci.al/) - Live Bluesky firehose in the format of a Geiger counter
  - [Handle Directory](https://blue.mackuba.eu/directory/) - Bluesky handles directory (TLDs, PDSes, Fediverse)
  - [Skircle](https://skircle.me/) - Generate social circle images
  - [Wolfgang](https://wolfgang.raios.xyz/) - Interactions, social circles, blocks

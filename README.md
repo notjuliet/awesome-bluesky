@@ -16,6 +16,7 @@ This protocol enables the creation of powerful third party tools, enlisted here 
  - [Bridgy Fed](https://fed.brid.gy) - Connects ATProto identities to ActivityPub (Mastodon, …) and ActivityPub actors to ATProto (Bluesky)
 
 ## Charts, graphs, and stats
+ - [Altometer](https://altometer.atdev.pro/) - Tracks the number of image posts missing alt text
  - [Atlas](https://bsky.jazco.dev/) - Aggregate stats for all posts
  - [bsky charts](https://bskycharts.edavis.dev/edavis.dev/bskycharts.edavis.dev/index.html) - Charts of Bluesky network activity
  - [Bluesky Stats](https://blue.mackuba.eu/stats/) - Bluesky activity stats

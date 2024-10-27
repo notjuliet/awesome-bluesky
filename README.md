@@ -53,6 +53,7 @@ This protocol enables the creation of powerful third party tools, enlisted here 
 
 ## Profile
  - [bannerizer](https://bannerizer.glitch.me/) - Easily crop or resize an image to fit Bluesky's banner size requirements
+ - [Browser Identifier](https://outrite.github.io/browserid.html) - Identify the browser(s) a handle has used
  - [cleanfollow](https://cleanfollow-bsky.pages.dev/) - Unfollow blocked, deleted, deactivated and suspended accounts
  - [Gentle Unfollow](https://b.cam.fyi/unfollow) - Clean up your bluesky feed until it sparks joy
  - [List Copier](https://unfollow.cam.fyi/lists) - Make a new list from an existing one

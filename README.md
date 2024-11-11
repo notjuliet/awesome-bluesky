@@ -72,6 +72,7 @@ This protocol enables the creation of powerful third party tools, enlisted here 
  - [cbsky.app](https://github.com/goeo-/cbsky.app) - Replace "bsky" in URLs with "cbsky" to embed posts in Discord, Telegram, etc
  - [Firesky](https://firesky.tv/) - Live Bluesky firehose
  - [PDSls](https://pdsls.dev/) - Browse AtProto repositories
+ - [SkyDigest](https://skydigest.app) - Aggregates popular links from your network
  - [Skythread](https://blue.mackuba.eu/skythread/) - Thread viewer
  - [Skyview](https://skyview.social/) - View and share BlueSky threads without needing a BlueSky account
 

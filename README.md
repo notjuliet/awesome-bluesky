@@ -78,4 +78,6 @@ This protocol enables the creation of powerful third party tools, enlisted here 
 
 ## Migration
 - [sky-follower-bridge](https://github.com/kawamataryo/sky-follower-bridge) - Migrate X Followers/Following to Bsky
+- [twitter-to-bsky](https://github.com/ianklatzco/twitter-to-bsky) - Twitter to Bsky migration scripts
 - [BlueArk](https://blueark.app/) - Migrate post and reply history from X to Bsky
+- [atprototools](https://github.com/ianklatzco/atprototools)_- Low level library to copy/create posts via Bsky API

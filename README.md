@@ -76,3 +76,6 @@ This protocol enables the creation of powerful third party tools, enlisted here 
  - [Skythread](https://blue.mackuba.eu/skythread/) - Thread viewer
  - [Skyview](https://skyview.social/) - View and share BlueSky threads without needing a BlueSky account
 
+## Migration
+- [sky-follower-bridge](https://github.com/kawamataryo/sky-follower-bridge) - Migrate X Followers/Following to Bsky
+- [BlueArk](https://blueark.app/) - Migrate post and reply history from X to Bsky

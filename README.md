@@ -40,6 +40,12 @@ This protocol enables the creation of powerful third party tools, enlisted here 
  - [SkyTools](https://skytools.anon5r.com/) - User handle history and DID look up tool
  - [Universal Resolver](https://dev.uniresolver.io/) - Resolves all kinds of `did` identities under the sun (64 and counting)
 
+## Migration
+- [sky-follower-bridge](https://github.com/kawamataryo/sky-follower-bridge) - Migrate X Followers/Following to Bsky
+- [twitter-to-bsky](https://github.com/ianklatzco/twitter-to-bsky) - Twitter to Bsky migration scripts
+- [BlueArk](https://blueark.app/) - Migrate post and reply history from X to Bsky
+- [atprototools](https://github.com/ianklatzco/atprototools)_- Low level library to copy/create posts via Bsky API
+
 ## Moderation
  - [A Block-Them-All Tool for Bluesky](https://a-block-them-all-tool-for-bluesky-6040df.gitlab.io/) - Blocks all of the followers of the specified user
  - [Blockenheimer](https://blockenheimer.click/) - Quickly block or mute users who have liked or reposted any given post
@@ -75,9 +81,3 @@ This protocol enables the creation of powerful third party tools, enlisted here 
  - [PDSls](https://pdsls.dev/) - Browse AtProto repositories
  - [Skythread](https://blue.mackuba.eu/skythread/) - Thread viewer
  - [Skyview](https://skyview.social/) - View and share BlueSky threads without needing a BlueSky account
-
-## Migration
-- [sky-follower-bridge](https://github.com/kawamataryo/sky-follower-bridge) - Migrate X Followers/Following to Bsky
-- [twitter-to-bsky](https://github.com/ianklatzco/twitter-to-bsky) - Twitter to Bsky migration scripts
-- [BlueArk](https://blueark.app/) - Migrate post and reply history from X to Bsky
-- [atprototools](https://github.com/ianklatzco/atprototools)_- Low level library to copy/create posts via Bsky API

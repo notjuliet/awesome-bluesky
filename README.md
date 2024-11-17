@@ -4,10 +4,13 @@
 This protocol enables the creation of powerful third party tools, enlisted here for easy reference.
 
 ## Alternative Clients
- - [deck.blue](https://deck.blue/) - Web client with column view
+### Mobile
  - [Graysky](https://graysky.app/) - Mobile client for both Android and iOS
- - [Skeetdeck](https://skeetdeck.pages.dev/) - Web client inspired by TweetDeck
  - [Skeets](https://www.skeetsapp.com/) - Client for iOS / iPadOS / macOS
+ - [Openvibe](https://openvibe.social/) - Mobile client on iOS and Android for combining feeds and crossposting between Bluesky, Mastodon, Threads and Nostr
+### Web
+ - [deck.blue](https://deck.blue/) - Web client with column view
+ - [Skeetdeck](https://skeetdeck.pages.dev/) - Web client inspired by TweetDeck
  - [SkyBridge](https://skybridge.fly.dev/) - Proxy to use Bluesky with Mastodon clients
  - [Tabtter](https://tabtter.jp/) - Decentralized SNS client supporting Bluesky, Mastodon, and Misskey
  - [TOKIMEKI](https://tokimekibluesky.vercel.app/) - Web client

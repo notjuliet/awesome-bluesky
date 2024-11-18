@@ -25,6 +25,7 @@ This protocol enables the creation of powerful third party tools, enlisted here 
  - [Bluesky Stats](https://blue.mackuba.eu/stats/) - Bluesky activity stats
  - [Blueview](https://blueview.app/) - Insights and analytics plus support for creating posts
  - [Handle Directory](https://blue.mackuba.eu/directory/) - Bluesky handles directory (TLDs, PDSes, Fediverse)
+ - [scroll.blue/stats](https://scroll.blue/stats) - Realtime Bluesky user statistics
  - [Skircle](https://skircle.me/) - Generate social circle images
  - [Wolfgang](https://wolfgang.raios.xyz/) - Interactions, social circles, blocks
 

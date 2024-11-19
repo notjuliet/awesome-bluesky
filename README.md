@@ -26,6 +26,7 @@ This protocol enables the creation of powerful third party tools, enlisted here 
  - [Blueview](https://blueview.app/) - Insights and analytics plus support for creating posts
  - [Handle Directory](https://blue.mackuba.eu/directory/) - Bluesky handles directory (TLDs, PDSes, Fediverse)
  - [Skircle](https://skircle.me/) - Generate social circle images
+ - [Skyzoo](https://skyzoo.blue/) - Assigns you a Bluesky animal based on your recent activity
  - [Wolfgang](https://wolfgang.raios.xyz/) - Interactions, social circles, blocks
 
 ## Events

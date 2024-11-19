@@ -82,7 +82,7 @@ This protocol enables the creation of powerful third party tools, enlisted here 
  - [Bluesky, and what Bluesky is not.](https://whtwnd.com/alexia.bsky.cyrneko.eu/3l727v7zlis2i) - An overview of Bluesky and the AT Protocol targeted at ActivityPub developers
 
 ## Selfhosting
- - [jetstream](https://github.com/ericvolp12/jetstream) - A simplified JSON event stream for AT Proto
+ - [[jetstream](https://github.com/ericvolp12/jetstream)](https://github.com/bluesky-social/jetstream) - A simplified JSON event stream for AT Proto
  - [PDS](https://github.com/bluesky-social/pds) - Container image and documentation to selfhost your own Personal Data Server
 
 ## Viewers

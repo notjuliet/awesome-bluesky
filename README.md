@@ -48,6 +48,8 @@ This protocol enables the creation of powerful third party tools, enlisted here 
 - [twitter-to-bsky](https://github.com/ianklatzco/twitter-to-bsky) - Twitter to Bsky migration scripts
 - [BlueArk](https://blueark.app/) - Migrate post and reply history from X to Bsky
 - [atprototools](https://github.com/ianklatzco/atprototools)_- Low level library to copy/create posts via Bsky API
+- [twitter-to-bluesky](https://github.com/marcomaroni-github/twitter-to-bluesky)- Import all tweets exported from X/Twitter to a Bluesky account.
+
 
 ## Moderation
  - [A Block-Them-All Tool for Bluesky](https://a-block-them-all-tool-for-bluesky-6040df.gitlab.io/) - Blocks all of the followers of the specified user

@@ -66,6 +66,7 @@ This protocol enables the creation of powerful third party tools, enlisted here 
  - [skeetgen](https://codeberg.org/mary-ext/skeetgen) - Generate an easily viewable archive of your Bluesky posts
  - [SkySweeper](https://skysweeper.p8.lu/) - Automatically delete old posts
  - [Blue Bots, Done Quick!](https://bluebotsdonequick.com/) - Create your own Bluesky bot!
+ - [Skeet](https://github.com/sharunkumar/skeet) - Post from your command line to Bluesky or other supported atproto sites
 
 ## Profile
  - [bannerizer](https://bannerizer.glitch.me/) - Easily crop or resize an image to fit Bluesky's banner size requirements

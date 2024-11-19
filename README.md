@@ -11,7 +11,6 @@ This protocol enables the creation of powerful third party tools, enlisted here 
 ### Web
  - [deck.blue](https://deck.blue/) - Web client with column view
  - [Skeetdeck](https://skeetdeck.pages.dev/) - Web client inspired by TweetDeck
- - [SkyBridge](https://skybridge.fly.dev/) - Proxy to use Bluesky with Mastodon clients
  - [Tabtter](https://tabtter.jp/) - Decentralized SNS client supporting Bluesky, Mastodon, and Misskey
  - [TOKIMEKI](https://tokimekibluesky.vercel.app/) - Web client
 
@@ -27,7 +26,6 @@ This protocol enables the creation of powerful third party tools, enlisted here 
  - [Handle Directory](https://blue.mackuba.eu/directory/) - Bluesky handles directory (TLDs, PDSes, Fediverse)
  - [Skircle](https://skircle.me/) - Generate social circle images
  - [Skyzoo](https://skyzoo.blue/) - Assigns you a Bluesky animal based on your recent activity
- - [Wolfgang](https://wolfgang.raios.xyz/) - Interactions, social circles, blocks
 
 ## Events
  - [Smoke Signal](https://smokesignal.events/) - Event and RSVP management

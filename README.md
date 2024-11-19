@@ -53,7 +53,6 @@ This protocol enables the creation of powerful third party tools, enlisted here 
 
 
 ## Moderation
- - [A Block-Them-All Tool for Bluesky](https://a-block-them-all-tool-for-bluesky-6040df.gitlab.io/) - Blocks all of the followers of the specified user
  - [Blockenheimer](https://blockenheimer.click/) - Quickly block or mute users who have liked or reposted any given post
  - [Label Scanner](https://blue.mackuba.eu/scanner/) - Shows what labels are applied on an account
  - [Labeler Scraping](https://github.com/mary-ext/bluesky-labeler-scraping) - Indexes Bluesky labelers
@@ -82,7 +81,7 @@ This protocol enables the creation of powerful third party tools, enlisted here 
  - [Bluesky, and what Bluesky is not.](https://whtwnd.com/alexia.bsky.cyrneko.eu/3l727v7zlis2i) - An overview of Bluesky and the AT Protocol targeted at ActivityPub developers
 
 ## Selfhosting
- - [[jetstream](https://github.com/ericvolp12/jetstream)](https://github.com/bluesky-social/jetstream) - A simplified JSON event stream for AT Proto
+ - [jetstream](https://github.com/bluesky-social/jetstream) - A simplified JSON event stream for AT Proto
  - [PDS](https://github.com/bluesky-social/pds) - Container image and documentation to selfhost your own Personal Data Server
 
 ## Viewers

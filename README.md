@@ -6,8 +6,8 @@ This protocol enables the creation of powerful third party tools, enlisted here 
 ## Alternative Clients
 ### Mobile
  - [Graysky](https://graysky.app/) - Mobile client for both Android and iOS
- - [Skeets](https://www.skeetsapp.com/) - Client for iOS / iPadOS / macOS
  - [Openvibe](https://openvibe.social/) - Mobile client on iOS and Android for combining feeds and crossposting between Bluesky, Mastodon, Threads and Nostr
+ - [Skeets](https://www.skeetsapp.com/) - Client for iOS / iPadOS / macOS
 ### Web
  - [deck.blue](https://deck.blue/) - Web client with column view
  - [Skeetdeck](https://skeetdeck.pages.dev/) - Web client inspired by TweetDeck
@@ -20,9 +20,9 @@ This protocol enables the creation of powerful third party tools, enlisted here 
 ## Charts, graphs, and stats
  - [Altometer](https://altometer.atdev.pro/) - Tracks the number of image posts missing alt text
  - [Atlas](https://bsky.jazco.dev/) - Aggregate stats for all posts
- - [bsky charts](https://bskycharts.edavis.dev/edavis.dev/bskycharts.edavis.dev/index.html) - Charts of Bluesky network activity
  - [Bluesky Stats](https://blue.mackuba.eu/stats/) - Bluesky activity stats
  - [Blueview](https://blueview.app/) - Insights and analytics plus support for creating posts
+ - [bsky charts](https://bskycharts.edavis.dev/edavis.dev/bskycharts.edavis.dev/index.html) - Charts of Bluesky network activity
  - [Handle Directory](https://blue.mackuba.eu/directory/) - Bluesky handles directory (TLDs, PDSes, Fediverse)
  - [Skircle](https://skircle.me/) - Generate social circle images
  - [Skyzoo](https://skyzoo.blue/) - Assigns you a Bluesky animal based on your recent activity
@@ -31,9 +31,9 @@ This protocol enables the creation of powerful third party tools, enlisted here 
  - [Smoke Signal](https://smokesignal.events/) - Event and RSVP management
 
 ## Feeds
+ - [Bluesky Feed Creator](https://blueskyfeedcreator.com/) - Quickly design and customize your Bluesky feeds, no coding knowledge required
  - [Bluestream](https://bluestream.deno.dev/) - RSS feed generator
  - [SkyFeed](https://skyfeed.app) - Alternative web client with a powerful custom feed builder
- - [Bluesky Feed Creator](https://blueskyfeedcreator.com/) - Quickly design and customize your Bluesky feeds, no coding knowledge required
 
 ## Identity
  - [DID PLC Directory](https://web.plc.directory/) - did:plc resolver with API
@@ -43,11 +43,11 @@ This protocol enables the creation of powerful third party tools, enlisted here 
  - [Universal Resolver](https://dev.uniresolver.io/) - Resolves all kinds of `did` identities under the sun (64 and counting)
 
 ## Migration
-- [sky-follower-bridge](https://github.com/kawamataryo/sky-follower-bridge) - Migrate X Followers/Following to Bsky
-- [BlueArk](https://blueark.app/) - Migrate post and reply history from X to Bsky
 - [atprototools](https://github.com/ianklatzco/atprototools) - Low level library to copy/create posts via Bsky API
-- [twitter-to-bluesky](https://github.com/marcomaroni-github/twitter-to-bluesky) - Import all tweets exported from X/Twitter to a Bluesky account.
+- [BlueArk](https://blueark.app/) - Migrate post and reply history from X to Bsky
 - [Porto](https://chromewebstore.google.com/detail/porto-import-your-tweets/ckilhjdflnaakopknngigiggfpnjaaop) - Import your Tweets to Bluesky (Chrome extension)
+- [sky-follower-bridge](https://github.com/kawamataryo/sky-follower-bridge) - Migrate X Followers/Following to Bsky
+- [twitter-to-bluesky](https://github.com/marcomaroni-github/twitter-to-bluesky) - Import all tweets exported from X/Twitter to a Bluesky account.
 
 
 ## Moderation
@@ -56,13 +56,12 @@ This protocol enables the creation of powerful third party tools, enlisted here 
  - [Labeler Scraping](https://github.com/mary-ext/bluesky-labeler-scraping) - Indexes Bluesky labelers
 
 ## Posts
+ - [Blue Bots, Done Quick!](https://bluebotsdonequick.com/) - Create your own Bluesky bot!
  - [Croissant](https://apps.apple.com/us/app/croissant-cross-posting/id6670288979) - Cross-post to Bluesky, Threads and Mastodon - iOS
- - [posteing](https://posteing.pages.dev/) - Thread composer to send multiple posts at once
  - [Profile Cleaner](https://bsky.jazco.dev/cleanup) - A tool to clean up old posts, likes, and reposts
  - [Skeet Discord Bot](https://github.com/malooski/skeet-discord-bot) - Posts your bluesky skeets to Discord
  - [skeetgen](https://codeberg.org/mary-ext/skeetgen) - Generate an easily viewable archive of your Bluesky posts
  - [SkySweeper](https://skysweeper.p8.lu/) - Automatically delete old posts
- - [Blue Bots, Done Quick!](https://bluebotsdonequick.com/) - Create your own Bluesky bot!
 
 ## Profile
  - [bannerizer](https://bannerizer.glitch.me/) - Easily crop or resize an image to fit Bluesky's banner size requirements

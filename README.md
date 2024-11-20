@@ -10,6 +10,7 @@ This protocol enables the creation of powerful third party tools, enlisted here 
  - [Skeets](https://www.skeetsapp.com/) - Client for iOS / iPadOS / macOS
 ### Web
  - [deck.blue](https://deck.blue/) - Web client with column view
+ - [Klearsky](https://klearsky.pages.dev/) - Web client (Japanese & English)
  - [Skeetdeck](https://skeetdeck.pages.dev/) - Web client inspired by TweetDeck
  - [Tabtter](https://tabtter.jp/) - Decentralized SNS client supporting Bluesky, Mastodon, and Misskey
  - [TOKIMEKI](https://tokimekibluesky.vercel.app/) - Web client

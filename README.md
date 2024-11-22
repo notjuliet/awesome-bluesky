@@ -14,6 +14,7 @@ This protocol enables the creation of powerful third party tools, enlisted here 
  - [Skeetdeck](https://skeetdeck.pages.dev/) - Web client inspired by TweetDeck
  - [Tabtter](https://tabtter.jp/) - Decentralized SNS client supporting Bluesky, Mastodon, and Misskey
  - [TOKIMEKI](https://tokimekibluesky.vercel.app/) - Web client
+- [Bluesky Navigator](https://github.com/tonycpsu/bluesky-navigator) - Userscript that adds keyboard shortcuts, read post tracking, and more to the native Bluesky web interface
 
 ## Bridges
  - [Bridgy Fed](https://fed.brid.gy) - Connects ATProto identities to ActivityPub (Mastodon, …) and ActivityPub actors to ATProto (Bluesky)

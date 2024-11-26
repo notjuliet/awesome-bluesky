@@ -60,6 +60,7 @@ This protocol enables the creation of powerful third party tools, enlisted here 
 ## Posts
  - [Blue Bots, Done Quick!](https://bluebotsdonequick.com/) - Create your own Bluesky bot!
  - [Croissant](https://apps.apple.com/us/app/croissant-cross-posting/id6670288979) - Cross-post to Bluesky, Threads and Mastodon - iOS
+ - [Fedica](https://fedica.com/) - Free Bluesky scheduler, crossposting tool, & content calendar
  - [Profile Cleaner](https://bsky.jazco.dev/cleanup) - A tool to clean up old posts, likes, and reposts
  - [Skeet Discord Bot](https://github.com/malooski/skeet-discord-bot) - Posts your bluesky skeets to Discord
  - [skeetgen](https://codeberg.org/mary-ext/skeetgen) - Generate an easily viewable archive of your Bluesky posts

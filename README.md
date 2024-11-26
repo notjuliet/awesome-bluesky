@@ -23,6 +23,7 @@ This protocol enables the creation of powerful third party tools, enlisted here 
  - [Altometer](https://altometer.atdev.pro/) - Tracks the number of image posts missing alt text
  - [Atlas](https://bsky.jazco.dev/) - Aggregate stats for all posts
  - [Bluesky Stats](https://blue.mackuba.eu/stats/) - Bluesky activity stats
+ - [realtime.blue](https://realtime.blue) - Realtime follower, follows and post metrics
  - [Blueview](https://blueview.app/) - Insights and analytics plus support for creating posts
  - [bsky charts](https://bskycharts.edavis.dev/edavis.dev/bskycharts.edavis.dev/index.html) - Charts of Bluesky network activity
  - [Handle Directory](https://blue.mackuba.eu/directory/) - Bluesky handles directory (TLDs, PDSes, Fediverse)

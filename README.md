@@ -22,6 +22,7 @@ This protocol enables the creation of powerful third party tools, enlisted here 
 ## Charts, graphs, and stats
  - [Altometer](https://altometer.atdev.pro/) - Tracks the number of image posts missing alt text
  - [Atlas](https://bsky.jazco.dev/) - Aggregate stats for all posts
+ - [Bluesky Meter](https://blueskymeter.com) - Bluesky Analytics with posting streak heatmap.
  - [Bluesky Stats](https://blue.mackuba.eu/stats/) - Bluesky activity stats
  - [Blueview](https://blueview.app/) - Insights and analytics plus support for creating posts
  - [bsky charts](https://bskycharts.edavis.dev/edavis.dev/bskycharts.edavis.dev/index.html) - Charts of Bluesky network activity

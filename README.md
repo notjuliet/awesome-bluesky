@@ -22,7 +22,7 @@ This protocol enables the creation of powerful third party tools, enlisted here 
 ## Charts, graphs, and stats
  - [Altometer](https://altometer.atdev.pro/) - Tracks the number of image posts missing alt text
  - [Atlas](https://bsky.jazco.dev/) - Aggregate stats for all posts
- - [Bluesky Meter](https://blueskymeter.com) - Bluesky Analytics with posting streak heatmap.
+ - [Bluesky Meter](https://blueskymeter.com) - Bluesky Analytics with posting streak heatmap
  - [Bluesky Stats](https://blue.mackuba.eu/stats/) - Bluesky activity stats
  - [Blueview](https://blueview.app/) - Insights and analytics plus support for creating posts
  - [bsky charts](https://bskycharts.edavis.dev/edavis.dev/bskycharts.edavis.dev/index.html) - Charts of Bluesky network activity
@@ -50,7 +50,7 @@ This protocol enables the creation of powerful third party tools, enlisted here 
 - [BlueArk](https://blueark.app/) - Migrate post and reply history from X to Bsky
 - [Porto](https://chromewebstore.google.com/detail/porto-import-your-tweets/ckilhjdflnaakopknngigiggfpnjaaop) - Import your Tweets to Bluesky (Chrome extension)
 - [sky-follower-bridge](https://github.com/kawamataryo/sky-follower-bridge) - Migrate X Followers/Following to Bsky
-- [twitter-to-bluesky](https://github.com/marcomaroni-github/twitter-to-bluesky) - Import all tweets exported from X/Twitter to a Bluesky account.
+- [twitter-to-bluesky](https://github.com/marcomaroni-github/twitter-to-bluesky) - Import all tweets exported from X/Twitter to a Bluesky account
 
 
 ## Moderation

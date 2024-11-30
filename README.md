@@ -65,6 +65,7 @@ This protocol enables the creation of powerful third party tools, enlisted here 
  - [Skeet Discord Bot](https://github.com/malooski/skeet-discord-bot) - Posts your bluesky skeets to Discord
  - [skeetgen](https://codeberg.org/mary-ext/skeetgen) - Generate an easily viewable archive of your Bluesky posts
  - [SkySweeper](https://skysweeper.p8.lu/) - Automatically delete old posts
+ - [noodlyy](https://www.noodlyy.com/) - Check which replies have satisfied the giveaway rules you set (e.g. liked, reposted, followed, etc.)
 
 ## Profile
  - [bannerizer](https://bannerizer.glitch.me/) - Easily crop or resize an image to fit Bluesky's banner size requirements

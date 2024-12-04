@@ -29,6 +29,7 @@ This protocol enables the creation of powerful third party tools, enlisted here 
  - [Handle Directory](https://blue.mackuba.eu/directory/) - Bluesky handles directory (TLDs, PDSes, Fediverse)
  - [Skircle](https://skircle.me/) - Generate social circle images
  - [Skyzoo](https://skyzoo.blue/) - Assigns you a Bluesky animal based on your recent activity
+ - [BlueskyKeywords](https://blueskykeywords.com) - Keyword monitoring, never miss a mention of your brand
 
 ## Events
  - [Smoke Signal](https://smokesignal.events/) - Event and RSVP management

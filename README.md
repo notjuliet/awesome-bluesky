@@ -20,7 +20,6 @@ This protocol enables the creation of powerful third party tools, enlisted here 
  - [Bridgy Fed](https://fed.brid.gy) - Connects ATProto identities to ActivityPub (Mastodon, …) and ActivityPub actors to ATProto (Bluesky)
 
 ## Charts, graphs, and stats
- - [Altometer](https://altometer.atdev.pro/) - Tracks the number of image posts missing alt text
  - [Atlas](https://bsky.jazco.dev/) - Aggregate stats for all posts
  - [Bluesky Stats](https://blue.mackuba.eu/stats/) - Bluesky activity stats
  - [Blueview](https://blueview.app/) - Insights and analytics plus support for creating posts
@@ -39,7 +38,6 @@ This protocol enables the creation of powerful third party tools, enlisted here 
 
 ## Identity
  - [DID PLC Directory](https://web.plc.directory/) - did:plc resolver with API
- - [did:plc Tracker](https://plc-handle-tracker.kpherox.dev/) - did:plc & atproto handle tracker
  - [internect.info](https://internect.info/) - Resolve a Bluesky handle
  - [SkyTools](https://skytools.anon5r.com/) - User handle history and DID look up tool
  - [Universal Resolver](https://dev.uniresolver.io/) - Resolves all kinds of `did` identities under the sun (64 and counting)

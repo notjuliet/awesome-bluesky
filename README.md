@@ -9,6 +9,7 @@ This protocol enables the creation of powerful third party tools, enlisted here 
  - [Openvibe](https://openvibe.social/) - Mobile client on iOS and Android for combining feeds and crossposting between Bluesky, Mastodon, Threads and Nostr
  - [Skeets](https://www.skeetsapp.com/) - Client for iOS / iPadOS / macOS
 ### Web
+ - [AzSky.app](https://azsky.app) - Web client featuring threaded view and support for long posts with a 50,000-character limit
  - [deck.blue](https://deck.blue/) - Web client with column view
  - [Klearsky](https://klearsky.pages.dev/) - Web client (Japanese & English)
  - [Skeetdeck](https://skeetdeck.pages.dev/) - Web client inspired by TweetDeck

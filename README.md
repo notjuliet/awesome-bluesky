@@ -25,6 +25,7 @@ This protocol enables the creation of powerful third party tools, enlisted here 
  - [Blueview](https://blueview.app/) - Insights and analytics plus support for creating posts
  - [bsky charts](https://bskycharts.edavis.dev/edavis.dev/bskycharts.edavis.dev/index.html) - Charts of Bluesky network activity
  - [Handle Directory](https://blue.mackuba.eu/directory/) - Bluesky handles directory (TLDs, PDSes, Fediverse)
+ - [Looky Looker](https://bsky.javier.computer/) - See what lists someone has been added to
  - [Skircle](https://skircle.me/) - Generate social circle images
  - [Skyzoo](https://skyzoo.blue/) - Assigns you a Bluesky animal based on your recent activity
 

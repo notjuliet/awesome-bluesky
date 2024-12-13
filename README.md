@@ -64,8 +64,10 @@ This protocol enables the creation of powerful third party tools, enlisted here 
  - [skeetgen](https://codeberg.org/mary-ext/skeetgen) - Generate an easily viewable archive of your Bluesky posts
  - [SkySweeper](https://skysweeper.p8.lu/) - Automatically delete old posts
 
+
 ## Profile
  - [bannerizer](https://bannerizer.glitch.me/) - Easily crop or resize an image to fit Bluesky's banner size requirements
+ - [Blu.Ski](https://blu.ski) - Short links to bluesky profiles
  - [cleanfollow](https://cleanfollow-bsky.pages.dev/) - Unfollow blocked, deleted, deactivated and suspended accounts
  - [Gentle Unfollow](https://b.cam.fyi/unfollow) - Clean up your bluesky feed until it sparks joy
  - [List Copier](https://unfollow.cam.fyi/lists) - Make a new list from an existing one

@@ -26,6 +26,7 @@ This protocol enables the creation of powerful third party tools, enlisted here 
  - [bsky charts](https://bskycharts.edavis.dev/edavis.dev/bskycharts.edavis.dev/index.html) - Charts of Bluesky network activity
  - [Handle Directory](https://blue.mackuba.eu/directory/) - Bluesky handles directory (TLDs, PDSes, Fediverse)
  - [Looky Looker](https://bsky.javier.computer/) - See what lists someone has been added to
+ - [Screenie](https://www.screenie.me) - Capture and share screenshots instantly
  - [Skircle](https://skircle.me/) - Generate social circle images
  - [Skyzoo](https://skyzoo.blue/) - Assigns you a Bluesky animal based on your recent activity
 
@@ -73,9 +74,6 @@ This protocol enables the creation of powerful third party tools, enlisted here 
 
 ## Starter Packs
  - [Starter Packs](https://www.starterpacks.net) - Starter pack explorer and management tools
-
- ## Capture 
- - [Screenie](https://www.screenie.me) - Capture and share screenshots instantly.
 
 ## Resources
  - [Bluesky and the AT Protocol: Usable Decentralized Social Media](https://arxiv.org/abs/2402.03239) - A high level architectural overview of the Bluesky platform and AT Protocol

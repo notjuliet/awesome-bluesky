@@ -64,6 +64,7 @@ This protocol enables the creation of powerful third party tools, enlisted here 
  - [Skeet Discord Bot](https://github.com/malooski/skeet-discord-bot) - Posts your bluesky skeets to Discord
  - [skeetgen](https://codeberg.org/mary-ext/skeetgen) - Generate an easily viewable archive of your Bluesky posts
  - [SkySweeper](https://skysweeper.p8.lu/) - Automatically delete old posts
+ - [bsky-bridge](https://github.com/0xExal/bsky-bridge) - A simple and quick-to-setup Python library for posting text and images to BlueSky via its API, available as a package on [PyPI](https://pypi.org/project/bsky-bridge).
 
 ## Profile
  - [bannerizer](https://bannerizer.glitch.me/) - Easily crop or resize an image to fit Bluesky's banner size requirements

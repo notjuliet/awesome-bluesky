@@ -85,6 +85,7 @@ This protocol enables the creation of powerful third party tools, enlisted here 
 
 ## Viewers
  - [atproto-browser](https://atproto-browser.vercel.app) - Browse AT URIs
+ - [Blu.Ski Terminal](https://blu.ski/terminal) - Bluesky firehose visualized as a computer terminal
  - [cbsky.app](https://github.com/goeo-/cbsky.app) - Replace "bsky" in URLs with "cbsky" to embed posts in Discord, Telegram, etc
  - [Firesky](https://firesky.tv/) - Live Bluesky firehose
  - [PDSls](https://pdsls.dev/) - Browse AtProto repositories

@@ -24,6 +24,7 @@ This protocol enables the creation of powerful third party tools, enlisted here 
  - [Bluesky Stats](https://blue.mackuba.eu/stats/) - Bluesky activity stats
  - [Blueview](https://blueview.app/) - Insights and analytics plus support for creating posts
  - [bsky charts](https://bskycharts.edavis.dev/edavis.dev/bskycharts.edavis.dev/index.html) - Charts of Bluesky network activity
+ - [Dopplersky](https://dopplersky.com/) - Profile tracking & insights
  - [Handle Directory](https://blue.mackuba.eu/directory/) - Bluesky handles directory (TLDs, PDSes, Fediverse)
  - [Looky Looker](https://bsky.javier.computer/) - See what lists someone has been added to
  - [Screenie](https://www.screenie.me) - Capture and share screenshots instantly

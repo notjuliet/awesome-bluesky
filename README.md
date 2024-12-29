@@ -13,7 +13,7 @@ This protocol enables the creation of powerful third party tools, enlisted here 
  - [Klearsky](https://klearsky.pages.dev/) - Web client (Japanese & English)
  - [Skeetdeck](https://skeetdeck.pages.dev/) - Web client inspired by TweetDeck
  - [Tabtter](https://tabtter.jp/) - Decentralized SNS client supporting Bluesky, Mastodon, and Misskey
- - [TOKIMEKI](https://tokimekibluesky.vercel.app/) - Web client
+ - [TOKIMEKI](https://tokimeki.blue/) - Highly customizable web client, also available as an Android app (Japanese & English)
 - [Bluesky Navigator](https://github.com/tonycpsu/bluesky-navigator) - Userscript that adds keyboard shortcuts, read post tracking, and more to the native Bluesky web interface
 
 ## Bridges
